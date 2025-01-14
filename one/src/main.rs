@@ -34,10 +34,6 @@ fn main() {
             }
         }
     }
-
-    println!("{:?}", how_many_times(left, right));
-
-
     
 }
 
